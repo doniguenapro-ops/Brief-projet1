@@ -44,5 +44,19 @@ div img{
     margin-left:250px;
 }
 
+.gauche{
+    margin-left: -300px;
+    margin-top: -250px;
+    width: 400px;
+    height: 200px;
+    
+}
 
+.droite{
+    margin-left: 1100px;
+    margin-top: -200px;
+    width: 400px;
+    height: 200px;
+    
+}
 
