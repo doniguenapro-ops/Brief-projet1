@@ -1,0 +1,129 @@
+header{
+    
+    width:100%;
+    height:100;
+    background-color:whitesmoke; 
+    padding: 15px 40px;
+    justify-content: space-between;
+    align-items: center;
+    display:flex;
+
+
+}
+body{
+    background-image: url(../fresh-green-leaves-grow-on-tree-symbolizing-new-life-in-nature-free-photo.jpg);
+    margin:0;
+    
+}
+.algue{
+    width: 150px;
+    text-align: center;
+     margin-top: 200px;
+    margin-left:200px;
+    
+}
+.algue img{
+  
+    border-radius:50%;
+    width: 150px;}
+
+.algue a{
+    color:white; 
+   
+}
+
+.mousse{
+    width: 150px;
+    text-align: center;
+     margin-top: -180px;
+    margin-left:400px;
+    
+}
+.mousse img{
+  
+    border-radius:50%;
+    width: 150px;}
+
+.mousse a{
+    color:white; 
+   
+}
+.fougère{
+    width: 150px;
+    text-align: center;
+     margin-top: -180px;
+    margin-left:600px;
+    
+}
+.fougère img{
+  
+    border-radius:50%;
+    width: 150px;}
+
+.fougère a{
+    color:white;
+
+}
+.conifère{
+    width: 150px;
+    text-align: center;
+     margin-top: -180px;
+    margin-left:800px;
+    
+}
+.conifère img{
+  
+    border-radius:50%;
+    width: 150px;}
+
+.conifère a{
+    color:white;
+
+}
+
+.graminées{
+    width: 150px;
+    text-align: center;
+     margin-top: -180px;
+    margin-left:1000px;
+    
+}
+.graminées img{
+  
+    border-radius:50%;
+    width: 150px;}
+
+.graminées a{
+    color:white;}
+
+.dicoty{
+    width: 150px;
+    text-align: center;
+     margin-top: -180px;
+    margin-left:1200px;
+    
+}
+.dicoty img{
+  
+    border-radius:50%;
+    width: 150px;}
+
+.dicoty a{
+    color:white;
+
+}
+#histoire{
+    background-color: green;
+    }
+
+h1{
+    color:green;
+    text-align: center;
+        
+}
+h2{
+    color:azure;
+    text-align: center;
+  
+}
+
