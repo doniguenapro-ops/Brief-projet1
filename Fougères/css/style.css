@@ -10,31 +10,35 @@ header{
 
 
 }
+
+
+
 body{
     background-image: url(../fresh-green-leaves-grow-on-tree-symbolizing-new-life-in-nature-free-photo.jpg);
     margin:0;}
 
-    #algue{ 
+    #fougère{ 
         background-color: green;
 
     }
 
 div{
     background-color:white;
-    width: 100%;
+    width: 1300;
     height:240px;
-    margin-top: 400px;
+    margin-top: 500px;
 
     
 }
 
 
 
+
 div h3 {
     color:green;
-    margin-top: -190px;
-    margin-left:500px;
-    font-size: 30px;
+    margin-top: -170px;
+    margin-left:800px;
+    font-size: 20px;
     line-height: 2;
 }
 
@@ -53,10 +57,16 @@ div img{
 }
 
 .droite{
-    margin-left: 1100px;
+    margin-left: 1050px;
     margin-top: -200px;
     width: 400px;
     height: 200px;
+
     
 }
 
+
+.imaged{
+     margin-left: 300px;
+    margin-top: -240px;
+}
