@@ -1,0 +1,72 @@
+header{
+    
+    width:100%;
+    height:100;
+    background-color:whitesmoke; 
+    padding: 15px 40px;
+    justify-content: space-between;
+    align-items: center;
+    display:flex;
+
+
+}
+
+
+
+body{
+    background-image: url(../fresh-green-leaves-grow-on-tree-symbolizing-new-life-in-nature-free-photo.jpg);
+    margin:0;}
+
+    #fougère{ 
+        background-color: green;
+
+    }
+
+div{
+    background-color:white;
+    width: 1300;
+    height:240px;
+    margin-top: 500px;
+
+    
+}
+
+
+
+
+div h3 {
+    color:green;
+    margin-top: -170px;
+    margin-left:800px;
+    font-size: 20px;
+    line-height: 2;
+}
+
+
+
+div img{
+    margin-left:250px;
+}
+
+.gauche{
+    margin-left: -300px;
+    margin-top: -250px;
+    width: 400px;
+    height: 200px;
+    
+}
+
+.droite{
+    margin-left: 1050px;
+    margin-top: -200px;
+    width: 400px;
+    height: 200px;
+
+    
+}
+
+
+.imaged{
+     margin-left: 300px;
+    margin-top: -240px;
+}
