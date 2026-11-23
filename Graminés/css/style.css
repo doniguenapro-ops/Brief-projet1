@@ -17,7 +17,7 @@ body{
     background-image: url(../fresh-green-leaves-grow-on-tree-symbolizing-new-life-in-nature-free-photo.jpg);
     margin:0;}
 
-    #fougère{ 
+    #graminée{ 
         background-color: green;
 
     }
@@ -36,9 +36,9 @@ div{
 
 div h3 {
     color:green;
-    margin-top: -170px;
+    margin-top: -180px;
     margin-left:800px;
-    font-size: 20px;
+    font-size: 10x;
     line-height: 2;
 }
 
